@@ -11,5 +11,32 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
-# JTD Settings
+# JTD Theme Settings
+search_enabled: true
 color_scheme: dark
+
+# JTD Footer
+last_edit_timestamp: true
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/ApolloDatapacks/worldgen-docs/"
+gh_edit_branch: "gh-pages"
+gh_edit_view_mode: "tree"
+
+# JTD Callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    color: yellow
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+  new: # For minor updates maybe?
+    title: New
+    color: green
