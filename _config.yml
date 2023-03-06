@@ -10,3 +10,6 @@ github_username:  naomieow
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+
+# JTD Settings
+color_scheme: dark
