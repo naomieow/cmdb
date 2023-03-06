@@ -3,6 +3,7 @@ layout: page
 title: Commands
 permalink: /commands/
 nav_order: 1
+has_children: true
 ---
 
 ## Syntax
