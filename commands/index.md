@@ -11,7 +11,7 @@ has_children: true
 | Syntax         | Meaning                |
 | :------------: | :--------------------- |
 | `plain text`   | Enter exactly as shown |
-| `<argument>`   | Required argument      |
+| `<argument>`   | Replaceable argument   |
 | `[optional]`   | Optional argument      |
 | `(entry|entry)`| Pick one (Required)    |
 | `[entry|entry]`| Pick one (Optional)    |
