@@ -37,6 +37,6 @@ callouts:
   important:
     title: Important
     color: blue
-  new: # For minor updates maybe?
-    title: New
+  restriction:
+    title: Restriction
     color: green
